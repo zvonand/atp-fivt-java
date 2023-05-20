@@ -1,0 +1,5980 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-20T20:52:52.089503509Z</date>
+  <millis>1684615972089</millis>
+  <nanos>503509</nanos>
+  <sequence>0</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.RingProcessor</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Nodes: 10; coordinator: 3</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.108348757Z</date>
+  <millis>1684615972108</millis>
+  <nanos>348757</nanos>
+  <sequence>1</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.RingProcessor</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Node  0 has 9  packages</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.109021026Z</date>
+  <millis>1684615972109</millis>
+  <nanos>21026</nanos>
+  <sequence>2</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.RingProcessor</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Node  1 has 9  packages</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.109542660Z</date>
+  <millis>1684615972109</millis>
+  <nanos>542660</nanos>
+  <sequence>3</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.RingProcessor</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Node  2 has 9  packages</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.110050913Z</date>
+  <millis>1684615972110</millis>
+  <nanos>50913</nanos>
+  <sequence>4</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.RingProcessor</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Node  3 has 0  packages</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.110682525Z</date>
+  <millis>1684615972110</millis>
+  <nanos>682525</nanos>
+  <sequence>5</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.RingProcessor</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Node  4 has 9  packages</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.111229371Z</date>
+  <millis>1684615972111</millis>
+  <nanos>229371</nanos>
+  <sequence>6</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.RingProcessor</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Node  5 has 9  packages</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.111779841Z</date>
+  <millis>1684615972111</millis>
+  <nanos>779841</nanos>
+  <sequence>7</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.RingProcessor</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Node  6 has 9  packages</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.112274463Z</date>
+  <millis>1684615972112</millis>
+  <nanos>274463</nanos>
+  <sequence>8</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.RingProcessor</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Node  7 has 9  packages</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.112760992Z</date>
+  <millis>1684615972112</millis>
+  <nanos>760992</nanos>
+  <sequence>9</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.RingProcessor</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Node  8 has 9  packages</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.113175636Z</date>
+  <millis>1684615972113</millis>
+  <nanos>175636</nanos>
+  <sequence>10</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.RingProcessor</class>
+  <method>init</method>
+  <thread>1</thread>
+  <message>Node  9 has 9  packages</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.124713353Z</date>
+  <millis>1684615972124</millis>
+  <nanos>713353</nanos>
+  <sequence>11</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_3 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.124849017Z</date>
+  <millis>1684615972124</millis>
+  <nanos>849017</nanos>
+  <sequence>13</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Node 2 : received package in 35 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.124746200Z</date>
+  <millis>1684615972124</millis>
+  <nanos>746200</nanos>
+  <sequence>12</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_4 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.125214576Z</date>
+  <millis>1684615972125</millis>
+  <nanos>214576</nanos>
+  <sequence>18</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_1 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.125183691Z</date>
+  <millis>1684615972125</millis>
+  <nanos>183691</nanos>
+  <sequence>17</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_8 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.125149348Z</date>
+  <millis>1684615972125</millis>
+  <nanos>149348</nanos>
+  <sequence>16</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_0 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.125081328Z</date>
+  <millis>1684615972125</millis>
+  <nanos>81328</nanos>
+  <sequence>15</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_6 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.124977637Z</date>
+  <millis>1684615972124</millis>
+  <nanos>977637</nanos>
+  <sequence>14</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_7 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.126393699Z</date>
+  <millis>1684615972126</millis>
+  <nanos>393699</nanos>
+  <sequence>21</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_12 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.127191975Z</date>
+  <millis>1684615972127</millis>
+  <nanos>191975</nanos>
+  <sequence>22</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_13 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.125571564Z</date>
+  <millis>1684615972125</millis>
+  <nanos>571564</nanos>
+  <sequence>20</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>20</thread>
+  <message>Node 3 : written package Frame_5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.125425404Z</date>
+  <millis>1684615972125</millis>
+  <nanos>425404</nanos>
+  <sequence>19</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_2 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.128314360Z</date>
+  <millis>1684615972128</millis>
+  <nanos>314360</nanos>
+  <sequence>25</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_15 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.127762501Z</date>
+  <millis>1684615972127</millis>
+  <nanos>762501</nanos>
+  <sequence>24</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_9 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.127355900Z</date>
+  <millis>1684615972127</millis>
+  <nanos>355900</nanos>
+  <sequence>23</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_10 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.129591587Z</date>
+  <millis>1684615972129</millis>
+  <nanos>591587</nanos>
+  <sequence>26</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_16 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.132106408Z</date>
+  <millis>1684615972132</millis>
+  <nanos>106408</nanos>
+  <sequence>27</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_24 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.133210217Z</date>
+  <millis>1684615972133</millis>
+  <nanos>210217</nanos>
+  <sequence>28</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_14 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.133600359Z</date>
+  <millis>1684615972133</millis>
+  <nanos>600359</nanos>
+  <sequence>29</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_11 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.134332594Z</date>
+  <millis>1684615972134</millis>
+  <nanos>332594</nanos>
+  <sequence>30</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_33 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.134997740Z</date>
+  <millis>1684615972134</millis>
+  <nanos>997740</nanos>
+  <sequence>31</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_21 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.135233300Z</date>
+  <millis>1684615972135</millis>
+  <nanos>233300</nanos>
+  <sequence>33</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_23 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.135549143Z</date>
+  <millis>1684615972135</millis>
+  <nanos>549143</nanos>
+  <sequence>35</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_25 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.135142428Z</date>
+  <millis>1684615972135</millis>
+  <nanos>142428</nanos>
+  <sequence>32</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Node 1 : received package in 46 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.135821598Z</date>
+  <millis>1684615972135</millis>
+  <nanos>821598</nanos>
+  <sequence>36</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_19 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.135236838Z</date>
+  <millis>1684615972135</millis>
+  <nanos>236838</nanos>
+  <sequence>34</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Node 6 : received package in 46 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.136336940Z</date>
+  <millis>1684615972136</millis>
+  <nanos>336940</nanos>
+  <sequence>37</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_18 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.137059986Z</date>
+  <millis>1684615972137</millis>
+  <nanos>59986</nanos>
+  <sequence>38</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_42 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.137093555Z</date>
+  <millis>1684615972137</millis>
+  <nanos>93555</nanos>
+  <sequence>39</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>24</thread>
+  <message>Node 3 : written package Frame_17</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.137882381Z</date>
+  <millis>1684615972137</millis>
+  <nanos>882381</nanos>
+  <sequence>40</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_27 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.138388530Z</date>
+  <millis>1684615972138</millis>
+  <nanos>388530</nanos>
+  <sequence>41</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_28 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.138426264Z</date>
+  <millis>1684615972138</millis>
+  <nanos>426264</nanos>
+  <sequence>43</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>19</thread>
+  <message>Node 3 : written package Frame_22</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.138424516Z</date>
+  <millis>1684615972138</millis>
+  <nanos>424516</nanos>
+  <sequence>42</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Node 9 : received package in 49 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.139491809Z</date>
+  <millis>1684615972139</millis>
+  <nanos>491809</nanos>
+  <sequence>44</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>27</thread>
+  <message>Node 3 : written package Frame_20</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.140412525Z</date>
+  <millis>1684615972140</millis>
+  <nanos>412525</nanos>
+  <sequence>45</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Node 5 : received package in 50 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.140893520Z</date>
+  <millis>1684615972140</millis>
+  <nanos>893520</nanos>
+  <sequence>46</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_30 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.141512717Z</date>
+  <millis>1684615972141</millis>
+  <nanos>512717</nanos>
+  <sequence>51</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_36 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.141327785Z</date>
+  <millis>1684615972141</millis>
+  <nanos>327785</nanos>
+  <sequence>50</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_37 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.141083515Z</date>
+  <millis>1684615972141</millis>
+  <nanos>83515</nanos>
+  <sequence>48</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_31 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.141082792Z</date>
+  <millis>1684615972141</millis>
+  <nanos>82792</nanos>
+  <sequence>49</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_32 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.141003435Z</date>
+  <millis>1684615972141</millis>
+  <nanos>3435</nanos>
+  <sequence>47</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>23</thread>
+  <message>Node 3 : written package Frame_34</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.142133720Z</date>
+  <millis>1684615972142</millis>
+  <nanos>133720</nanos>
+  <sequence>52</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_26 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.142681065Z</date>
+  <millis>1684615972142</millis>
+  <nanos>681065</nanos>
+  <sequence>53</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_39 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.143008172Z</date>
+  <millis>1684615972143</millis>
+  <nanos>8172</nanos>
+  <sequence>54</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_45 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.143628087Z</date>
+  <millis>1684615972143</millis>
+  <nanos>628087</nanos>
+  <sequence>55</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_40 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.144169062Z</date>
+  <millis>1684615972144</millis>
+  <nanos>169062</nanos>
+  <sequence>56</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_48 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.144498272Z</date>
+  <millis>1684615972144</millis>
+  <nanos>498272</nanos>
+  <sequence>57</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_54 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.145097955Z</date>
+  <millis>1684615972145</millis>
+  <nanos>97955</nanos>
+  <sequence>58</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_49 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.146134535Z</date>
+  <millis>1684615972146</millis>
+  <nanos>134535</nanos>
+  <sequence>59</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_57 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.146370862Z</date>
+  <millis>1684615972146</millis>
+  <nanos>370862</nanos>
+  <sequence>60</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_35 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.146643014Z</date>
+  <millis>1684615972146</millis>
+  <nanos>643014</nanos>
+  <sequence>61</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Node 1 : received package in 57 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.146842460Z</date>
+  <millis>1684615972146</millis>
+  <nanos>842460</nanos>
+  <sequence>62</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_43 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.146981303Z</date>
+  <millis>1684615972146</millis>
+  <nanos>981303</nanos>
+  <sequence>63</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>19</thread>
+  <message>Node 3 : written package Frame_58</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.147360351Z</date>
+  <millis>1684615972147</millis>
+  <nanos>360351</nanos>
+  <sequence>66</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_29 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.147142987Z</date>
+  <millis>1684615972147</millis>
+  <nanos>142987</nanos>
+  <sequence>65</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_46 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.147023833Z</date>
+  <millis>1684615972147</millis>
+  <nanos>23833</nanos>
+  <sequence>64</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_41 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.147895287Z</date>
+  <millis>1684615972147</millis>
+  <nanos>895287</nanos>
+  <sequence>70</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_44 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.147762031Z</date>
+  <millis>1684615972147</millis>
+  <nanos>762031</nanos>
+  <sequence>69</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_51 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.147699427Z</date>
+  <millis>1684615972147</millis>
+  <nanos>699427</nanos>
+  <sequence>68</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_66 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.147534745Z</date>
+  <millis>1684615972147</millis>
+  <nanos>534745</nanos>
+  <sequence>67</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Node 7 : received package in 58 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.148285435Z</date>
+  <millis>1684615972148</millis>
+  <nanos>285435</nanos>
+  <sequence>71</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_52 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.148740882Z</date>
+  <millis>1684615972148</millis>
+  <nanos>740882</nanos>
+  <sequence>72</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_67 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.148903647Z</date>
+  <millis>1684615972148</millis>
+  <nanos>903647</nanos>
+  <sequence>73</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_38 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.149175567Z</date>
+  <millis>1684615972149</millis>
+  <nanos>175567</nanos>
+  <sequence>74</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_50 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.149629625Z</date>
+  <millis>1684615972149</millis>
+  <nanos>629625</nanos>
+  <sequence>75</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>25</thread>
+  <message>Node 3 : written package Frame_63</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.149946288Z</date>
+  <millis>1684615972149</millis>
+  <nanos>946288</nanos>
+  <sequence>76</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Node 0 : received package in 60 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.150094569Z</date>
+  <millis>1684615972150</millis>
+  <nanos>94569</nanos>
+  <sequence>77</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_53 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.150096827Z</date>
+  <millis>1684615972150</millis>
+  <nanos>96827</nanos>
+  <sequence>78</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_55 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.150460528Z</date>
+  <millis>1684615972150</millis>
+  <nanos>460528</nanos>
+  <sequence>81</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_76 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.150645016Z</date>
+  <millis>1684615972150</millis>
+  <nanos>645016</nanos>
+  <sequence>82</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Node 5 : received package in 61 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.150984194Z</date>
+  <millis>1684615972150</millis>
+  <nanos>984194</nanos>
+  <sequence>83</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>23</thread>
+  <message>Node 3 : written package Frame_61</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.151157332Z</date>
+  <millis>1684615972151</millis>
+  <nanos>157332</nanos>
+  <sequence>84</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_72 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.150312395Z</date>
+  <millis>1684615972150</millis>
+  <nanos>312395</nanos>
+  <sequence>80</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_60 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.150273254Z</date>
+  <millis>1684615972150</millis>
+  <nanos>273254</nanos>
+  <sequence>79</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>18</thread>
+  <message>Node 3 : written package Frame_75</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.151652190Z</date>
+  <millis>1684615972151</millis>
+  <nanos>652190</nanos>
+  <sequence>85</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_62 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.151790159Z</date>
+  <millis>1684615972151</millis>
+  <nanos>790159</nanos>
+  <sequence>86</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_59 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.151825791Z</date>
+  <millis>1684615972151</millis>
+  <nanos>825791</nanos>
+  <sequence>87</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_47 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.152368333Z</date>
+  <millis>1684615972152</millis>
+  <nanos>368333</nanos>
+  <sequence>88</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_70 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.152536598Z</date>
+  <millis>1684615972152</millis>
+  <nanos>536598</nanos>
+  <sequence>89</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_8 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.153016766Z</date>
+  <millis>1684615972153</millis>
+  <nanos>16766</nanos>
+  <sequence>90</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_64 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.153061734Z</date>
+  <millis>1684615972153</millis>
+  <nanos>61734</nanos>
+  <sequence>92</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_71 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.153019505Z</date>
+  <millis>1684615972153</millis>
+  <nanos>19505</nanos>
+  <sequence>91</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_3 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.154079957Z</date>
+  <millis>1684615972154</millis>
+  <nanos>79957</nanos>
+  <sequence>95</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_68 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.154258511Z</date>
+  <millis>1684615972154</millis>
+  <nanos>258511</nanos>
+  <sequence>97</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_79 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.154421591Z</date>
+  <millis>1684615972154</millis>
+  <nanos>421591</nanos>
+  <sequence>98</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_73 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.153924459Z</date>
+  <millis>1684615972153</millis>
+  <nanos>924459</nanos>
+  <sequence>94</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_26 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.153495839Z</date>
+  <millis>1684615972153</millis>
+  <nanos>495839</nanos>
+  <sequence>93</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_2 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.154082171Z</date>
+  <millis>1684615972154</millis>
+  <nanos>82171</nanos>
+  <sequence>96</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_56 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.155012958Z</date>
+  <millis>1684615972155</millis>
+  <nanos>12958</nanos>
+  <sequence>100</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_80 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.154755125Z</date>
+  <millis>1684615972154</millis>
+  <nanos>755125</nanos>
+  <sequence>99</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_69 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.155336394Z</date>
+  <millis>1684615972155</millis>
+  <nanos>336394</nanos>
+  <sequence>101</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_12 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.155467207Z</date>
+  <millis>1684615972155</millis>
+  <nanos>467207</nanos>
+  <sequence>102</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_77 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.155685239Z</date>
+  <millis>1684615972155</millis>
+  <nanos>685239</nanos>
+  <sequence>103</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_6 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.155977808Z</date>
+  <millis>1684615972155</millis>
+  <nanos>977808</nanos>
+  <sequence>104</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_0 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.156160211Z</date>
+  <millis>1684615972156</millis>
+  <nanos>160211</nanos>
+  <sequence>105</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_35 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.156281923Z</date>
+  <millis>1684615972156</millis>
+  <nanos>281923</nanos>
+  <sequence>106</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_11 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.156431971Z</date>
+  <millis>1684615972156</millis>
+  <nanos>431971</nanos>
+  <sequence>107</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_65 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.156587346Z</date>
+  <millis>1684615972156</millis>
+  <nanos>587346</nanos>
+  <sequence>108</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_7 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.156882666Z</date>
+  <millis>1684615972156</millis>
+  <nanos>882666</nanos>
+  <sequence>109</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_4 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.157194104Z</date>
+  <millis>1684615972157</millis>
+  <nanos>194104</nanos>
+  <sequence>110</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_78 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.157374976Z</date>
+  <millis>1684615972157</millis>
+  <nanos>374976</nanos>
+  <sequence>111</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Node 5 : received package in 68 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.157560125Z</date>
+  <millis>1684615972157</millis>
+  <nanos>560125</nanos>
+  <sequence>112</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_44 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.157702387Z</date>
+  <millis>1684615972157</millis>
+  <nanos>702387</nanos>
+  <sequence>113</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>23</thread>
+  <message>Node 3 : written package Frame_15</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.157877878Z</date>
+  <millis>1684615972157</millis>
+  <nanos>877878</nanos>
+  <sequence>114</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_9 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.157878883Z</date>
+  <millis>1684615972157</millis>
+  <nanos>878883</nanos>
+  <sequence>115</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_74 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.158031272Z</date>
+  <millis>1684615972158</millis>
+  <nanos>31272</nanos>
+  <sequence>117</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_29 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.158019147Z</date>
+  <millis>1684615972158</millis>
+  <nanos>19147</nanos>
+  <sequence>116</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_21 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.158452959Z</date>
+  <millis>1684615972158</millis>
+  <nanos>452959</nanos>
+  <sequence>119</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_13 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.158619071Z</date>
+  <millis>1684615972158</millis>
+  <nanos>619071</nanos>
+  <sequence>120</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_14 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.158948937Z</date>
+  <millis>1684615972158</millis>
+  <nanos>948937</nanos>
+  <sequence>121</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_53 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.159274632Z</date>
+  <millis>1684615972159</millis>
+  <nanos>274632</nanos>
+  <sequence>123</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_18 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.159409227Z</date>
+  <millis>1684615972159</millis>
+  <nanos>409227</nanos>
+  <sequence>124</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_1 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.158250580Z</date>
+  <millis>1684615972158</millis>
+  <nanos>250580</nanos>
+  <sequence>118</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_16 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.159532951Z</date>
+  <millis>1684615972159</millis>
+  <nanos>532951</nanos>
+  <sequence>125</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_38 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.159073629Z</date>
+  <millis>1684615972159</millis>
+  <nanos>73629</nanos>
+  <sequence>122</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Node 5 : received package in 70 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.159818049Z</date>
+  <millis>1684615972159</millis>
+  <nanos>818049</nanos>
+  <sequence>126</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_31 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.160179442Z</date>
+  <millis>1684615972160</millis>
+  <nanos>179442</nanos>
+  <sequence>128</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_23 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.160471829Z</date>
+  <millis>1684615972160</millis>
+  <nanos>471829</nanos>
+  <sequence>130</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>23</thread>
+  <message>Node 3 : written package Frame_24</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.160665218Z</date>
+  <millis>1684615972160</millis>
+  <nanos>665218</nanos>
+  <sequence>131</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_27 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.160006239Z</date>
+  <millis>1684615972160</millis>
+  <nanos>6239</nanos>
+  <sequence>127</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_30 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.160785690Z</date>
+  <millis>1684615972160</millis>
+  <nanos>785690</nanos>
+  <sequence>132</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Node 9 : received package in 71 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.160328221Z</date>
+  <millis>1684615972160</millis>
+  <nanos>328221</nanos>
+  <sequence>129</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_62 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.161240480Z</date>
+  <millis>1684615972161</millis>
+  <nanos>240480</nanos>
+  <sequence>134</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>27</thread>
+  <message>Node 3 : written package Frame_10</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.161023371Z</date>
+  <millis>1684615972161</millis>
+  <nanos>23371</nanos>
+  <sequence>133</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_25 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.161511674Z</date>
+  <millis>1684615972161</millis>
+  <nanos>511674</nanos>
+  <sequence>136</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Node 0 : received package in 72 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.161338403Z</date>
+  <millis>1684615972161</millis>
+  <nanos>338403</nanos>
+  <sequence>135</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Node 2 : received package in 72 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.161708014Z</date>
+  <millis>1684615972161</millis>
+  <nanos>708014</nanos>
+  <sequence>137</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_32 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.161851988Z</date>
+  <millis>1684615972161</millis>
+  <nanos>851988</nanos>
+  <sequence>138</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_33 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.162158377Z</date>
+  <millis>1684615972162</millis>
+  <nanos>158377</nanos>
+  <sequence>140</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_39 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.162042496Z</date>
+  <millis>1684615972162</millis>
+  <nanos>42496</nanos>
+  <sequence>139</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>20</thread>
+  <message>Node 3 : written package Frame_40</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.162427526Z</date>
+  <millis>1684615972162</millis>
+  <nanos>427526</nanos>
+  <sequence>143</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_71 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.162166085Z</date>
+  <millis>1684615972162</millis>
+  <nanos>166085</nanos>
+  <sequence>142</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>18</thread>
+  <message>Node 3 : written package Frame_47</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.162162917Z</date>
+  <millis>1684615972162</millis>
+  <nanos>162917</nanos>
+  <sequence>141</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_36 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.162590364Z</date>
+  <millis>1684615972162</millis>
+  <nanos>590364</nanos>
+  <sequence>144</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_19 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.162962705Z</date>
+  <millis>1684615972162</millis>
+  <nanos>962705</nanos>
+  <sequence>145</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_43 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.163398116Z</date>
+  <millis>1684615972163</millis>
+  <nanos>398116</nanos>
+  <sequence>146</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_41 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.163636681Z</date>
+  <millis>1684615972163</millis>
+  <nanos>636681</nanos>
+  <sequence>147</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_49 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.163753558Z</date>
+  <millis>1684615972163</millis>
+  <nanos>753558</nanos>
+  <sequence>148</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_80 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.163885017Z</date>
+  <millis>1684615972163</millis>
+  <nanos>885017</nanos>
+  <sequence>149</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_56 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.164109710Z</date>
+  <millis>1684615972164</millis>
+  <nanos>109710</nanos>
+  <sequence>150</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_45 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.164278583Z</date>
+  <millis>1684615972164</millis>
+  <nanos>278583</nanos>
+  <sequence>153</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_42 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.164268410Z</date>
+  <millis>1684615972164</millis>
+  <nanos>268410</nanos>
+  <sequence>152</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_28 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.164132461Z</date>
+  <millis>1684615972164</millis>
+  <nanos>132461</nanos>
+  <sequence>151</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_48 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.164810536Z</date>
+  <millis>1684615972164</millis>
+  <nanos>810536</nanos>
+  <sequence>155</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_50 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.164421777Z</date>
+  <millis>1684615972164</millis>
+  <nanos>421777</nanos>
+  <sequence>154</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Node 6 : received package in 75 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.165188419Z</date>
+  <millis>1684615972165</millis>
+  <nanos>188419</nanos>
+  <sequence>157</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_7 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.165019724Z</date>
+  <millis>1684615972165</millis>
+  <nanos>19724</nanos>
+  <sequence>156</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_67 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.166155829Z</date>
+  <millis>1684615972166</millis>
+  <nanos>155829</nanos>
+  <sequence>158</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>24</thread>
+  <message>Node 3 : written package Frame_52</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.166169176Z</date>
+  <millis>1684615972166</millis>
+  <nanos>169176</nanos>
+  <sequence>159</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_54 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.166726048Z</date>
+  <millis>1684615972166</millis>
+  <nanos>726048</nanos>
+  <sequence>160</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_16 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.167051358Z</date>
+  <millis>1684615972167</millis>
+  <nanos>51358</nanos>
+  <sequence>161</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_76 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.167674990Z</date>
+  <millis>1684615972167</millis>
+  <nanos>674990</nanos>
+  <sequence>162</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_70 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.169661840Z</date>
+  <millis>1684615972169</millis>
+  <nanos>661840</nanos>
+  <sequence>163</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_3 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.169900117Z</date>
+  <millis>1684615972169</millis>
+  <nanos>900117</nanos>
+  <sequence>165</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_25 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.170075996Z</date>
+  <millis>1684615972170</millis>
+  <nanos>75996</nanos>
+  <sequence>166</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_65 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.169864977Z</date>
+  <millis>1684615972169</millis>
+  <nanos>864977</nanos>
+  <sequence>164</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_72 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.170224868Z</date>
+  <millis>1684615972170</millis>
+  <nanos>224868</nanos>
+  <sequence>168</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Node 1 : received package in 81 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.170203761Z</date>
+  <millis>1684615972170</millis>
+  <nanos>203761</nanos>
+  <sequence>167</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_59 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.170504394Z</date>
+  <millis>1684615972170</millis>
+  <nanos>504394</nanos>
+  <sequence>170</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_51 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.170332173Z</date>
+  <millis>1684615972170</millis>
+  <nanos>332173</nanos>
+  <sequence>169</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Node 9 : received package in 81 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.170742679Z</date>
+  <millis>1684615972170</millis>
+  <nanos>742679</nanos>
+  <sequence>172</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_79 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.170969457Z</date>
+  <millis>1684615972170</millis>
+  <nanos>969457</nanos>
+  <sequence>173</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>27</thread>
+  <message>Node 3 : written package Frame_37</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.170562068Z</date>
+  <millis>1684615972170</millis>
+  <nanos>562068</nanos>
+  <sequence>171</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>19</thread>
+  <message>Node 3 : written package Frame_57</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.171262094Z</date>
+  <millis>1684615972171</millis>
+  <nanos>262094</nanos>
+  <sequence>175</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_43 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.171121761Z</date>
+  <millis>1684615972171</millis>
+  <nanos>121761</nanos>
+  <sequence>174</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_12 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.171379633Z</date>
+  <millis>1684615972171</millis>
+  <nanos>379633</nanos>
+  <sequence>176</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_74 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.171500470Z</date>
+  <millis>1684615972171</millis>
+  <nanos>500470</nanos>
+  <sequence>177</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_8 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.171728164Z</date>
+  <millis>1684615972171</millis>
+  <nanos>728164</nanos>
+  <sequence>178</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_68 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.171957606Z</date>
+  <millis>1684615972171</millis>
+  <nanos>957606</nanos>
+  <sequence>179</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Node 5 : received package in 82 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.172171823Z</date>
+  <millis>1684615972172</millis>
+  <nanos>171823</nanos>
+  <sequence>180</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>23</thread>
+  <message>Node 3 : written package Frame_60</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.172266198Z</date>
+  <millis>1684615972172</millis>
+  <nanos>266198</nanos>
+  <sequence>181</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_46 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.172398969Z</date>
+  <millis>1684615972172</millis>
+  <nanos>398969</nanos>
+  <sequence>183</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_66 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.172338277Z</date>
+  <millis>1684615972172</millis>
+  <nanos>338277</nanos>
+  <sequence>182</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_6 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.172527431Z</date>
+  <millis>1684615972172</millis>
+  <nanos>527431</nanos>
+  <sequence>184</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_70 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.172763946Z</date>
+  <millis>1684615972172</millis>
+  <nanos>763946</nanos>
+  <sequence>185</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_21 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.172895704Z</date>
+  <millis>1684615972172</millis>
+  <nanos>895704</nanos>
+  <sequence>186</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_26 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.173014321Z</date>
+  <millis>1684615972173</millis>
+  <nanos>14321</nanos>
+  <sequence>187</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_77 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.173130987Z</date>
+  <millis>1684615972173</millis>
+  <nanos>130987</nanos>
+  <sequence>188</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_1 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.173483874Z</date>
+  <millis>1684615972173</millis>
+  <nanos>483874</nanos>
+  <sequence>189</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_69 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.173599383Z</date>
+  <millis>1684615972173</millis>
+  <nanos>599383</nanos>
+  <sequence>190</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_55 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.173731624Z</date>
+  <millis>1684615972173</millis>
+  <nanos>731624</nanos>
+  <sequence>191</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_2 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.173820301Z</date>
+  <millis>1684615972173</millis>
+  <nanos>820301</nanos>
+  <sequence>192</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_33 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.173931110Z</date>
+  <millis>1684615972173</millis>
+  <nanos>931110</nanos>
+  <sequence>193</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_79 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.174082612Z</date>
+  <millis>1684615972174</millis>
+  <nanos>82612</nanos>
+  <sequence>194</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_30 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.174163027Z</date>
+  <millis>1684615972174</millis>
+  <nanos>163027</nanos>
+  <sequence>195</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_35 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.174364561Z</date>
+  <millis>1684615972174</millis>
+  <nanos>364561</nanos>
+  <sequence>196</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Node 4 : received package in 85 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.174402257Z</date>
+  <millis>1684615972174</millis>
+  <nanos>402257</nanos>
+  <sequence>197</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_19 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.174702760Z</date>
+  <millis>1684615972174</millis>
+  <nanos>702760</nanos>
+  <sequence>198</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>22</thread>
+  <message>Node 3 : written package Frame_4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.174862394Z</date>
+  <millis>1684615972174</millis>
+  <nanos>862394</nanos>
+  <sequence>199</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_78 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.174913466Z</date>
+  <millis>1684615972174</millis>
+  <nanos>913466</nanos>
+  <sequence>200</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Node 9 : received package in 85 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.175090706Z</date>
+  <millis>1684615972175</millis>
+  <nanos>90706</nanos>
+  <sequence>201</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_11 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.175294206Z</date>
+  <millis>1684615972175</millis>
+  <nanos>294206</nanos>
+  <sequence>202</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>27</thread>
+  <message>Node 3 : written package Frame_64</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.175488124Z</date>
+  <millis>1684615972175</millis>
+  <nanos>488124</nanos>
+  <sequence>204</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_39 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.175603982Z</date>
+  <millis>1684615972175</millis>
+  <nanos>603982</nanos>
+  <sequence>205</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_6 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.175416009Z</date>
+  <millis>1684615972175</millis>
+  <nanos>416009</nanos>
+  <sequence>203</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_42 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.176127055Z</date>
+  <millis>1684615972176</millis>
+  <nanos>127055</nanos>
+  <sequence>206</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Node 4 : received package in 87 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.176384114Z</date>
+  <millis>1684615972176</millis>
+  <nanos>384114</nanos>
+  <sequence>207</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>22</thread>
+  <message>Node 3 : written package Frame_13</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.176605459Z</date>
+  <millis>1684615972176</millis>
+  <nanos>605459</nanos>
+  <sequence>208</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_29 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.176837052Z</date>
+  <millis>1684615972176</millis>
+  <nanos>837052</nanos>
+  <sequence>209</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_14 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.176895937Z</date>
+  <millis>1684615972176</millis>
+  <nanos>895937</nanos>
+  <sequence>210</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_33 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.177173383Z</date>
+  <millis>1684615972177</millis>
+  <nanos>173383</nanos>
+  <sequence>211</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_51 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.177339487Z</date>
+  <millis>1684615972177</millis>
+  <nanos>339487</nanos>
+  <sequence>212</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_73 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.177653187Z</date>
+  <millis>1684615972177</millis>
+  <nanos>653187</nanos>
+  <sequence>214</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_44 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.177728150Z</date>
+  <millis>1684615972177</millis>
+  <nanos>728150</nanos>
+  <sequence>215</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_31 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.177653041Z</date>
+  <millis>1684615972177</millis>
+  <nanos>653041</nanos>
+  <sequence>213</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_48 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.178322413Z</date>
+  <millis>1684615972178</millis>
+  <nanos>322413</nanos>
+  <sequence>219</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_42 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.178252076Z</date>
+  <millis>1684615972178</millis>
+  <nanos>252076</nanos>
+  <sequence>218</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_23 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.177935382Z</date>
+  <millis>1684615972177</millis>
+  <nanos>935382</nanos>
+  <sequence>217</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_38 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.179001521Z</date>
+  <millis>1684615972179</millis>
+  <nanos>1521</nanos>
+  <sequence>222</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_53 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.177905718Z</date>
+  <millis>1684615972177</millis>
+  <nanos>905718</nanos>
+  <sequence>216</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_28 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.178704936Z</date>
+  <millis>1684615972178</millis>
+  <nanos>704936</nanos>
+  <sequence>221</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Node 9 : received package in 89 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.178529989Z</date>
+  <millis>1684615972178</millis>
+  <nanos>529989</nanos>
+  <sequence>220</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_69 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.179829681Z</date>
+  <millis>1684615972179</millis>
+  <nanos>829681</nanos>
+  <sequence>226</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_32 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.180310509Z</date>
+  <millis>1684615972180</millis>
+  <nanos>310509</nanos>
+  <sequence>228</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_56 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.179629934Z</date>
+  <millis>1684615972179</millis>
+  <nanos>629934</nanos>
+  <sequence>225</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_51 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.179525534Z</date>
+  <millis>1684615972179</millis>
+  <nanos>525534</nanos>
+  <sequence>224</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_66 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.179339389Z</date>
+  <millis>1684615972179</millis>
+  <nanos>339389</nanos>
+  <sequence>223</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Node 4 : received package in 90 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.180641813Z</date>
+  <millis>1684615972180</millis>
+  <nanos>641813</nanos>
+  <sequence>229</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Node 8 : received package in 91 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.181433780Z</date>
+  <millis>1684615972181</millis>
+  <nanos>433780</nanos>
+  <sequence>232</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>26</thread>
+  <message>Node 3 : written package Frame_62</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.180203119Z</date>
+  <millis>1684615972180</millis>
+  <nanos>203119</nanos>
+  <sequence>227</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>27</thread>
+  <message>Node 3 : written package Frame_0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.181921974Z</date>
+  <millis>1684615972181</millis>
+  <nanos>921974</nanos>
+  <sequence>236</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_69 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.181694476Z</date>
+  <millis>1684615972181</millis>
+  <nanos>694476</nanos>
+  <sequence>235</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_65 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.182478419Z</date>
+  <millis>1684615972182</millis>
+  <nanos>478419</nanos>
+  <sequence>237</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Node 2 : received package in 93 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.181566332Z</date>
+  <millis>1684615972181</millis>
+  <nanos>566332</nanos>
+  <sequence>234</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_78 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.181455994Z</date>
+  <millis>1684615972181</millis>
+  <nanos>455994</nanos>
+  <sequence>233</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_41 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.182814223Z</date>
+  <millis>1684615972182</millis>
+  <nanos>814223</nanos>
+  <sequence>238</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_71 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.181283390Z</date>
+  <millis>1684615972181</millis>
+  <nanos>283390</nanos>
+  <sequence>231</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>22</thread>
+  <message>Node 3 : written package Frame_49</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.181218293Z</date>
+  <millis>1684615972181</millis>
+  <nanos>218293</nanos>
+  <sequence>230</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_46 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.183463161Z</date>
+  <millis>1684615972183</millis>
+  <nanos>463161</nanos>
+  <sequence>239</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>20</thread>
+  <message>Node 3 : written package Frame_2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.183706758Z</date>
+  <millis>1684615972183</millis>
+  <nanos>706758</nanos>
+  <sequence>241</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Node 7 : received package in 94 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.183587072Z</date>
+  <millis>1684615972183</millis>
+  <nanos>587072</nanos>
+  <sequence>240</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_74 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.184076905Z</date>
+  <millis>1684615972184</millis>
+  <nanos>76905</nanos>
+  <sequence>242</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_9 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.184188780Z</date>
+  <millis>1684615972184</millis>
+  <nanos>188780</nanos>
+  <sequence>244</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_14 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.184155096Z</date>
+  <millis>1684615972184</millis>
+  <nanos>155096</nanos>
+  <sequence>243</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_50 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.184452976Z</date>
+  <millis>1684615972184</millis>
+  <nanos>452976</nanos>
+  <sequence>245</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>25</thread>
+  <message>Node 3 : written package Frame_78</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.184626470Z</date>
+  <millis>1684615972184</millis>
+  <nanos>626470</nanos>
+  <sequence>247</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_55 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.184455076Z</date>
+  <millis>1684615972184</millis>
+  <nanos>455076</nanos>
+  <sequence>246</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_80 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.185115179Z</date>
+  <millis>1684615972185</millis>
+  <nanos>115179</nanos>
+  <sequence>248</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_11 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.185240757Z</date>
+  <millis>1684615972185</millis>
+  <nanos>240757</nanos>
+  <sequence>249</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_67 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.185425086Z</date>
+  <millis>1684615972185</millis>
+  <nanos>425086</nanos>
+  <sequence>250</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Node 1 : received package in 96 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.185634566Z</date>
+  <millis>1684615972185</millis>
+  <nanos>634566</nanos>
+  <sequence>251</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>19</thread>
+  <message>Node 3 : written package Frame_1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.185782575Z</date>
+  <millis>1684615972185</millis>
+  <nanos>782575</nanos>
+  <sequence>253</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Node 6 : received package in 96 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.185722760Z</date>
+  <millis>1684615972185</millis>
+  <nanos>722760</nanos>
+  <sequence>252</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Node 7 : received package in 96 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.186077642Z</date>
+  <millis>1684615972186</millis>
+  <nanos>77642</nanos>
+  <sequence>257</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_59 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.185992064Z</date>
+  <millis>1684615972185</millis>
+  <nanos>992064</nanos>
+  <sequence>256</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_7 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.185923636Z</date>
+  <millis>1684615972185</millis>
+  <nanos>923636</nanos>
+  <sequence>255</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_73 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.185809049Z</date>
+  <millis>1684615972185</millis>
+  <nanos>809049</nanos>
+  <sequence>254</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_18 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.186522829Z</date>
+  <millis>1684615972186</millis>
+  <nanos>522829</nanos>
+  <sequence>261</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_76 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.186416866Z</date>
+  <millis>1684615972186</millis>
+  <nanos>416866</nanos>
+  <sequence>260</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_29 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.186985667Z</date>
+  <millis>1684615972186</millis>
+  <nanos>985667</nanos>
+  <sequence>262</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_19 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.186389839Z</date>
+  <millis>1684615972186</millis>
+  <nanos>389839</nanos>
+  <sequence>259</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>25</thread>
+  <message>Node 3 : written package Frame_14</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.186217597Z</date>
+  <millis>1684615972186</millis>
+  <nanos>217597</nanos>
+  <sequence>258</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>24</thread>
+  <message>Node 3 : written package Frame_23</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.187567588Z</date>
+  <millis>1684615972187</millis>
+  <nanos>567588</nanos>
+  <sequence>263</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Node 5 : received package in 98 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.187701885Z</date>
+  <millis>1684615972187</millis>
+  <nanos>701885</nanos>
+  <sequence>264</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_16 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.188012185Z</date>
+  <millis>1684615972188</millis>
+  <nanos>12185</nanos>
+  <sequence>267</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Node 4 : received package in 99 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.187901929Z</date>
+  <millis>1684615972187</millis>
+  <nanos>901929</nanos>
+  <sequence>266</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Node 9 : received package in 98 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.187799569Z</date>
+  <millis>1684615972187</millis>
+  <nanos>799569</nanos>
+  <sequence>265</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_9 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.188366836Z</date>
+  <millis>1684615972188</millis>
+  <nanos>366836</nanos>
+  <sequence>269</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_38 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.188341544Z</date>
+  <millis>1684615972188</millis>
+  <nanos>341544</nanos>
+  <sequence>268</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_28 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.189016976Z</date>
+  <millis>1684615972189</millis>
+  <nanos>16976</nanos>
+  <sequence>270</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>27</thread>
+  <message>Node 3 : written package Frame_27</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.189351630Z</date>
+  <millis>1684615972189</millis>
+  <nanos>351630</nanos>
+  <sequence>271</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>22</thread>
+  <message>Node 3 : written package Frame_3</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.189757981Z</date>
+  <millis>1684615972189</millis>
+  <nanos>757981</nanos>
+  <sequence>273</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_32 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.189586755Z</date>
+  <millis>1684615972189</millis>
+  <nanos>586755</nanos>
+  <sequence>272</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>23</thread>
+  <message>Node 3 : written package Frame_68</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.189902867Z</date>
+  <millis>1684615972189</millis>
+  <nanos>902867</nanos>
+  <sequence>274</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_56 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.190077846Z</date>
+  <millis>1684615972190</millis>
+  <nanos>77846</nanos>
+  <sequence>275</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_18 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.190289479Z</date>
+  <millis>1684615972190</millis>
+  <nanos>289479</nanos>
+  <sequence>276</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_36 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.190813045Z</date>
+  <millis>1684615972190</millis>
+  <nanos>813045</nanos>
+  <sequence>277</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Node 1 : received package in 101 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.190865692Z</date>
+  <millis>1684615972190</millis>
+  <nanos>865692</nanos>
+  <sequence>279</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_32 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.190852348Z</date>
+  <millis>1684615972190</millis>
+  <nanos>852348</nanos>
+  <sequence>278</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_12 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.191304304Z</date>
+  <millis>1684615972191</millis>
+  <nanos>304304</nanos>
+  <sequence>280</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_77 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.191375794Z</date>
+  <millis>1684615972191</millis>
+  <nanos>375794</nanos>
+  <sequence>281</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_25 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.192443013Z</date>
+  <millis>1684615972192</millis>
+  <nanos>443013</nanos>
+  <sequence>282</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Node 6 : received package in 103 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.193813567Z</date>
+  <millis>1684615972193</millis>
+  <nanos>813567</nanos>
+  <sequence>283</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>19</thread>
+  <message>Node 3 : written package Frame_46</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.194183941Z</date>
+  <millis>1684615972194</millis>
+  <nanos>183941</nanos>
+  <sequence>284</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Node 4 : received package in 105 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.194589560Z</date>
+  <millis>1684615972194</millis>
+  <nanos>589560</nanos>
+  <sequence>285</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_43 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.195214115Z</date>
+  <millis>1684615972195</millis>
+  <nanos>214115</nanos>
+  <sequence>287</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_45 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.195367897Z</date>
+  <millis>1684615972195</millis>
+  <nanos>367897</nanos>
+  <sequence>290</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>24</thread>
+  <message>Node 3 : written package Frame_41</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.195463899Z</date>
+  <millis>1684615972195</millis>
+  <nanos>463899</nanos>
+  <sequence>291</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_65 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.195139613Z</date>
+  <millis>1684615972195</millis>
+  <nanos>139613</nanos>
+  <sequence>286</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_55 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.195323973Z</date>
+  <millis>1684615972195</millis>
+  <nanos>323973</nanos>
+  <sequence>289</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_36 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.195279386Z</date>
+  <millis>1684615972195</millis>
+  <nanos>279386</nanos>
+  <sequence>288</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>22</thread>
+  <message>Node 3 : written package Frame_21</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.196532529Z</date>
+  <millis>1684615972196</millis>
+  <nanos>532529</nanos>
+  <sequence>292</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_31 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.196611796Z</date>
+  <millis>1684615972196</millis>
+  <nanos>611796</nanos>
+  <sequence>293</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_54 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.196830697Z</date>
+  <millis>1684615972196</millis>
+  <nanos>830697</nanos>
+  <sequence>294</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_73 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.196836364Z</date>
+  <millis>1684615972196</millis>
+  <nanos>836364</nanos>
+  <sequence>295</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_70 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.197040476Z</date>
+  <millis>1684615972197</millis>
+  <nanos>40476</nanos>
+  <sequence>296</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_45 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.197171457Z</date>
+  <millis>1684615972197</millis>
+  <nanos>171457</nanos>
+  <sequence>297</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Node 6 : received package in 108 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.197270070Z</date>
+  <millis>1684615972197</millis>
+  <nanos>270070</nanos>
+  <sequence>299</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_30 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.197246655Z</date>
+  <millis>1684615972197</millis>
+  <nanos>246655</nanos>
+  <sequence>298</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_74 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.197352173Z</date>
+  <millis>1684615972197</millis>
+  <nanos>352173</nanos>
+  <sequence>300</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>24</thread>
+  <message>Node 3 : written package Frame_50</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.197819638Z</date>
+  <millis>1684615972197</millis>
+  <nanos>819638</nanos>
+  <sequence>301</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_67 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.197888949Z</date>
+  <millis>1684615972197</millis>
+  <nanos>888949</nanos>
+  <sequence>302</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_72 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.198100052Z</date>
+  <millis>1684615972198</millis>
+  <nanos>100052</nanos>
+  <sequence>303</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Node 1 : received package in 109 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.198164847Z</date>
+  <millis>1684615972198</millis>
+  <nanos>164847</nanos>
+  <sequence>304</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_79 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.198309912Z</date>
+  <millis>1684615972198</millis>
+  <nanos>309912</nanos>
+  <sequence>305</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>19</thread>
+  <message>Node 3 : written package Frame_9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.198537800Z</date>
+  <millis>1684615972198</millis>
+  <nanos>537800</nanos>
+  <sequence>306</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_54 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.198610139Z</date>
+  <millis>1684615972198</millis>
+  <nanos>610139</nanos>
+  <sequence>307</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_19 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.198743362Z</date>
+  <millis>1684615972198</millis>
+  <nanos>743362</nanos>
+  <sequence>308</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_39 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.198834531Z</date>
+  <millis>1684615972198</millis>
+  <nanos>834531</nanos>
+  <sequence>309</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Node 6 : received package in 109 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.199016780Z</date>
+  <millis>1684615972199</millis>
+  <nanos>16780</nanos>
+  <sequence>310</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>24</thread>
+  <message>Node 3 : written package Frame_59</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.199110717Z</date>
+  <millis>1684615972199</millis>
+  <nanos>110717</nanos>
+  <sequence>311</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_76 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.199178173Z</date>
+  <millis>1684615972199</millis>
+  <nanos>178173</nanos>
+  <sequence>312</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_8 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.199433098Z</date>
+  <millis>1684615972199</millis>
+  <nanos>433098</nanos>
+  <sequence>313</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_6 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.199577154Z</date>
+  <millis>1684615972199</millis>
+  <nanos>577154</nanos>
+  <sequence>314</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_18 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.199801327Z</date>
+  <millis>1684615972199</millis>
+  <nanos>801327</nanos>
+  <sequence>315</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_72 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.199886783Z</date>
+  <millis>1684615972199</millis>
+  <nanos>886783</nanos>
+  <sequence>316</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_28 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.200045143Z</date>
+  <millis>1684615972200</millis>
+  <nanos>45143</nanos>
+  <sequence>317</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_48 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.200266208Z</date>
+  <millis>1684615972200</millis>
+  <nanos>266208</nanos>
+  <sequence>318</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_77 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.200377288Z</date>
+  <millis>1684615972200</millis>
+  <nanos>377288</nanos>
+  <sequence>319</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_12 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.200455924Z</date>
+  <millis>1684615972200</millis>
+  <nanos>455924</nanos>
+  <sequence>320</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_26 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.200716896Z</date>
+  <millis>1684615972200</millis>
+  <nanos>716896</nanos>
+  <sequence>321</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_33 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.200857988Z</date>
+  <millis>1684615972200</millis>
+  <nanos>857988</nanos>
+  <sequence>322</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_36 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.201100220Z</date>
+  <millis>1684615972201</millis>
+  <nanos>100220</nanos>
+  <sequence>323</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_8 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.201188644Z</date>
+  <millis>1684615972201</millis>
+  <nanos>188644</nanos>
+  <sequence>324</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_55 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.201403715Z</date>
+  <millis>1684615972201</millis>
+  <nanos>403715</nanos>
+  <sequence>325</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_66 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.201561587Z</date>
+  <millis>1684615972201</millis>
+  <nanos>561587</nanos>
+  <sequence>326</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_31 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.201696449Z</date>
+  <millis>1684615972201</millis>
+  <nanos>696449</nanos>
+  <sequence>327</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_30 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.201780565Z</date>
+  <millis>1684615972201</millis>
+  <nanos>780565</nanos>
+  <sequence>328</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_35 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.202023849Z</date>
+  <millis>1684615972202</millis>
+  <nanos>23849</nanos>
+  <sequence>330</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Node 8 : received package in 112 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.202131497Z</date>
+  <millis>1684615972202</millis>
+  <nanos>131497</nanos>
+  <sequence>331</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_45 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.202229009Z</date>
+  <millis>1684615972202</millis>
+  <nanos>229009</nanos>
+  <sequence>332</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>26</thread>
+  <message>Node 3 : written package Frame_42</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.202455481Z</date>
+  <millis>1684615972202</millis>
+  <nanos>455481</nanos>
+  <sequence>333</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_26 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.202588937Z</date>
+  <millis>1684615972202</millis>
+  <nanos>588937</nanos>
+  <sequence>334</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Node 2 : received package in 113 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.202789853Z</date>
+  <millis>1684615972202</millis>
+  <nanos>789853</nanos>
+  <sequence>335</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>20</thread>
+  <message>Node 3 : written package Frame_73</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.202995723Z</date>
+  <millis>1684615972202</millis>
+  <nanos>995723</nanos>
+  <sequence>336</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_39 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.203211294Z</date>
+  <millis>1684615972203</millis>
+  <nanos>211294</nanos>
+  <sequence>339</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Node 4 : received package in 114 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.203408243Z</date>
+  <millis>1684615972203</millis>
+  <nanos>408243</nanos>
+  <sequence>340</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>22</thread>
+  <message>Node 3 : written package Frame_11</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.203499280Z</date>
+  <millis>1684615972203</millis>
+  <nanos>499280</nanos>
+  <sequence>341</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_51 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.203603435Z</date>
+  <millis>1684615972203</millis>
+  <nanos>603435</nanos>
+  <sequence>342</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Node 1 : received package in 114 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.203802031Z</date>
+  <millis>1684615972203</millis>
+  <nanos>802031</nanos>
+  <sequence>343</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>19</thread>
+  <message>Node 3 : written package Frame_54</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.204005291Z</date>
+  <millis>1684615972204</millis>
+  <nanos>5291</nanos>
+  <sequence>344</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_35 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.204256326Z</date>
+  <millis>1684615972204</millis>
+  <nanos>256326</nanos>
+  <sequence>346</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_48 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.204767172Z</date>
+  <millis>1684615972204</millis>
+  <nanos>767172</nanos>
+  <sequence>347</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_69 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.205034399Z</date>
+  <millis>1684615972205</millis>
+  <nanos>34399</nanos>
+  <sequence>348</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_29 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.205267033Z</date>
+  <millis>1684615972205</millis>
+  <nanos>267033</nanos>
+  <sequence>349</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_72 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.205485073Z</date>
+  <millis>1684615972205</millis>
+  <nanos>485073</nanos>
+  <sequence>350</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_44 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.206068833Z</date>
+  <millis>1684615972206</millis>
+  <nanos>68833</nanos>
+  <sequence>351</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_32 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.202139248Z</date>
+  <millis>1684615972202</millis>
+  <nanos>139248</nanos>
+  <sequence>329</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Node 7 : received package in 112 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.204058907Z</date>
+  <millis>1684615972204</millis>
+  <nanos>58907</nanos>
+  <sequence>345</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_18 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.203071353Z</date>
+  <millis>1684615972203</millis>
+  <nanos>71353</nanos>
+  <sequence>338</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_44 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.203004904Z</date>
+  <millis>1684615972203</millis>
+  <nanos>4904</nanos>
+  <sequence>337</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_67 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.207417872Z</date>
+  <millis>1684615972207</millis>
+  <nanos>417872</nanos>
+  <sequence>352</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>25</thread>
+  <message>Node 3 : written package Frame_77</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.207738679Z</date>
+  <millis>1684615972207</millis>
+  <nanos>738679</nanos>
+  <sequence>353</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_66 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.207946573Z</date>
+  <millis>1684615972207</millis>
+  <nanos>946573</nanos>
+  <sequence>354</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_8 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.208459434Z</date>
+  <millis>1684615972208</millis>
+  <nanos>459434</nanos>
+  <sequence>355</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_53 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.208530145Z</date>
+  <millis>1684615972208</millis>
+  <nanos>530145</nanos>
+  <sequence>357</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_36 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.208466752Z</date>
+  <millis>1684615972208</millis>
+  <nanos>466752</nanos>
+  <sequence>356</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_38 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.208605939Z</date>
+  <millis>1684615972208</millis>
+  <nanos>605939</nanos>
+  <sequence>358</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_76 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.209001532Z</date>
+  <millis>1684615972209</millis>
+  <nanos>1532</nanos>
+  <sequence>359</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_29 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.209183144Z</date>
+  <millis>1684615972209</millis>
+  <nanos>183144</nanos>
+  <sequence>361</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_26 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.209481115Z</date>
+  <millis>1684615972209</millis>
+  <nanos>481115</nanos>
+  <sequence>362</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_53 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.209720888Z</date>
+  <millis>1684615972209</millis>
+  <nanos>720888</nanos>
+  <sequence>363</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_71 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.209819468Z</date>
+  <millis>1684615972209</millis>
+  <nanos>819468</nanos>
+  <sequence>364</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_45 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.210079640Z</date>
+  <millis>1684615972210</millis>
+  <nanos>79640</nanos>
+  <sequence>365</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_12 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.210267850Z</date>
+  <millis>1684615972210</millis>
+  <nanos>267850</nanos>
+  <sequence>367</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_38 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.210503654Z</date>
+  <millis>1684615972210</millis>
+  <nanos>503654</nanos>
+  <sequence>369</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_35 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.210791306Z</date>
+  <millis>1684615972210</millis>
+  <nanos>791306</nanos>
+  <sequence>370</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_71 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.209031958Z</date>
+  <millis>1684615972209</millis>
+  <nanos>31958</nanos>
+  <sequence>360</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_31 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.210978902Z</date>
+  <millis>1684615972210</millis>
+  <nanos>978902</nanos>
+  <sequence>371</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_80 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.210347229Z</date>
+  <millis>1684615972210</millis>
+  <nanos>347229</nanos>
+  <sequence>368</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_56 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.210101722Z</date>
+  <millis>1684615972210</millis>
+  <nanos>101722</nanos>
+  <sequence>366</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_31 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.211365747Z</date>
+  <millis>1684615972211</millis>
+  <nanos>365747</nanos>
+  <sequence>373</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_30 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.211308066Z</date>
+  <millis>1684615972211</millis>
+  <nanos>308066</nanos>
+  <sequence>372</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_72 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.211612617Z</date>
+  <millis>1684615972211</millis>
+  <nanos>612617</nanos>
+  <sequence>374</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Node 5 : received package in 122 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.211842655Z</date>
+  <millis>1684615972211</millis>
+  <nanos>842655</nanos>
+  <sequence>375</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_44 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.212048755Z</date>
+  <millis>1684615972212</millis>
+  <nanos>48755</nanos>
+  <sequence>377</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_80 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.211846293Z</date>
+  <millis>1684615972211</millis>
+  <nanos>846293</nanos>
+  <sequence>376</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>23</thread>
+  <message>Node 3 : written package Frame_56</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.212259522Z</date>
+  <millis>1684615972212</millis>
+  <nanos>259522</nanos>
+  <sequence>379</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_7 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.212194267Z</date>
+  <millis>1684615972212</millis>
+  <nanos>194267</nanos>
+  <sequence>378</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Node 7 : received package in 123 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.212455956Z</date>
+  <millis>1684615972212</millis>
+  <nanos>455956</nanos>
+  <sequence>380</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_65 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.212631352Z</date>
+  <millis>1684615972212</millis>
+  <nanos>631352</nanos>
+  <sequence>381</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_39 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.212772359Z</date>
+  <millis>1684615972212</millis>
+  <nanos>772359</nanos>
+  <sequence>382</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_8 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.213592346Z</date>
+  <millis>1684615972213</millis>
+  <nanos>592346</nanos>
+  <sequence>383</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>25</thread>
+  <message>Node 3 : written package Frame_67</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.214331420Z</date>
+  <millis>1684615972214</millis>
+  <nanos>331420</nanos>
+  <sequence>388</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_16 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.214346954Z</date>
+  <millis>1684615972214</millis>
+  <nanos>346954</nanos>
+  <sequence>389</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Node 5 : received package in 125 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.214214157Z</date>
+  <millis>1684615972214</millis>
+  <nanos>214157</nanos>
+  <sequence>387</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Node 4 : received package in 124 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.215240310Z</date>
+  <millis>1684615972215</millis>
+  <nanos>240310</nanos>
+  <sequence>391</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>22</thread>
+  <message>Node 3 : written package Frame_74</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.214093617Z</date>
+  <millis>1684615972214</millis>
+  <nanos>93617</nanos>
+  <sequence>386</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_48 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.215386727Z</date>
+  <millis>1684615972215</millis>
+  <nanos>386727</nanos>
+  <sequence>392</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>23</thread>
+  <message>Node 3 : written package Frame_65</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.214074350Z</date>
+  <millis>1684615972214</millis>
+  <nanos>74350</nanos>
+  <sequence>385</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_26 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.213887243Z</date>
+  <millis>1684615972213</millis>
+  <nanos>887243</nanos>
+  <sequence>384</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_53 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.214592374Z</date>
+  <millis>1684615972214</millis>
+  <nanos>592374</nanos>
+  <sequence>390</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Node 0 : received package in 125 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.215939979Z</date>
+  <millis>1684615972215</millis>
+  <nanos>939979</nanos>
+  <sequence>393</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>18</thread>
+  <message>Node 3 : written package Frame_7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.216226329Z</date>
+  <millis>1684615972216</millis>
+  <nanos>226329</nanos>
+  <sequence>394</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_25 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.216526342Z</date>
+  <millis>1684615972216</millis>
+  <nanos>526342</nanos>
+  <sequence>395</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_66 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.216679090Z</date>
+  <millis>1684615972216</millis>
+  <nanos>679090</nanos>
+  <sequence>396</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_19 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.216795242Z</date>
+  <millis>1684615972216</millis>
+  <nanos>795242</nanos>
+  <sequence>398</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_35 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.217001497Z</date>
+  <millis>1684615972217</millis>
+  <nanos>1497</nanos>
+  <sequence>399</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Node 1 : received package in 127 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.216705031Z</date>
+  <millis>1684615972216</millis>
+  <nanos>705031</nanos>
+  <sequence>397</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_76 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.217441233Z</date>
+  <millis>1684615972217</millis>
+  <nanos>441233</nanos>
+  <sequence>402</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Node 9 : received package in 128 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.217782369Z</date>
+  <millis>1684615972217</millis>
+  <nanos>782369</nanos>
+  <sequence>404</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_76 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.217898146Z</date>
+  <millis>1684615972217</millis>
+  <nanos>898146</nanos>
+  <sequence>407</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Node 4 : received package in 128 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.217341920Z</date>
+  <millis>1684615972217</millis>
+  <nanos>341920</nanos>
+  <sequence>401</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>19</thread>
+  <message>Node 3 : written package Frame_71</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.217177506Z</date>
+  <millis>1684615972217</millis>
+  <nanos>177506</nanos>
+  <sequence>400</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_16 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.218119155Z</date>
+  <millis>1684615972218</millis>
+  <nanos>119155</nanos>
+  <sequence>408</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_44 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.217863977Z</date>
+  <millis>1684615972217</millis>
+  <nanos>863977</nanos>
+  <sequence>406</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>27</thread>
+  <message>Node 3 : written package Frame_43</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.217814462Z</date>
+  <millis>1684615972217</millis>
+  <nanos>814462</nanos>
+  <sequence>405</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_29 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.217765469Z</date>
+  <millis>1684615972217</millis>
+  <nanos>765469</nanos>
+  <sequence>403</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_19 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.218506110Z</date>
+  <millis>1684615972218</millis>
+  <nanos>506110</nanos>
+  <sequence>409</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>22</thread>
+  <message>Node 3 : written package Frame_28</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.218794088Z</date>
+  <millis>1684615972218</millis>
+  <nanos>794088</nanos>
+  <sequence>410</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Node 7 : received package in 129 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.218934769Z</date>
+  <millis>1684615972218</millis>
+  <nanos>934769</nanos>
+  <sequence>411</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>25</thread>
+  <message>Node 3 : written package Frame_12</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.219179527Z</date>
+  <millis>1684615972219</millis>
+  <nanos>179527</nanos>
+  <sequence>412</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_80 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.219333003Z</date>
+  <millis>1684615972219</millis>
+  <nanos>333003</nanos>
+  <sequence>413</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_25 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.219858847Z</date>
+  <millis>1684615972219</millis>
+  <nanos>858847</nanos>
+  <sequence>414</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_55 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.219868716Z</date>
+  <millis>1684615972219</millis>
+  <nanos>868716</nanos>
+  <sequence>415</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_53 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.219962523Z</date>
+  <millis>1684615972219</millis>
+  <nanos>962523</nanos>
+  <sequence>416</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_70 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.220414105Z</date>
+  <millis>1684615972220</millis>
+  <nanos>414105</nanos>
+  <sequence>418</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Package Frame_16 : 1 -&gt; 2</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.220353873Z</date>
+  <millis>1684615972220</millis>
+  <nanos>353873</nanos>
+  <sequence>417</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_30 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.220542237Z</date>
+  <millis>1684615972220</millis>
+  <nanos>542237</nanos>
+  <sequence>419</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Node 6 : received package in 131 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.221079961Z</date>
+  <millis>1684615972221</millis>
+  <nanos>79961</nanos>
+  <sequence>420</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>24</thread>
+  <message>Node 3 : written package Frame_38</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.221152074Z</date>
+  <millis>1684615972221</millis>
+  <nanos>152074</nanos>
+  <sequence>421</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_18 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.221281331Z</date>
+  <millis>1684615972221</millis>
+  <nanos>281331</nanos>
+  <sequence>422</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Node 2 : received package in 132 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.221402985Z</date>
+  <millis>1684615972221</millis>
+  <nanos>402985</nanos>
+  <sequence>423</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_70 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.221422795Z</date>
+  <millis>1684615972221</millis>
+  <nanos>422795</nanos>
+  <sequence>424</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_30 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.221501536Z</date>
+  <millis>1684615972221</millis>
+  <nanos>501536</nanos>
+  <sequence>425</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_79 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.221659447Z</date>
+  <millis>1684615972221</millis>
+  <nanos>659447</nanos>
+  <sequence>426</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_55 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.221733816Z</date>
+  <millis>1684615972221</millis>
+  <nanos>733816</nanos>
+  <sequence>427</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Node 1 : received package in 132 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.221954809Z</date>
+  <millis>1684615972221</millis>
+  <nanos>954809</nanos>
+  <sequence>428</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>19</thread>
+  <message>Node 3 : written package Frame_25</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.222166260Z</date>
+  <millis>1684615972222</millis>
+  <nanos>166260</nanos>
+  <sequence>429</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>20</thread>
+  <message>Node 3 : written package Frame_80</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.222172766Z</date>
+  <millis>1684615972222</millis>
+  <nanos>172766</nanos>
+  <sequence>430</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Node 7 : received package in 133 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.222376289Z</date>
+  <millis>1684615972222</millis>
+  <nanos>376289</nanos>
+  <sequence>431</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Node 4 : received package in 133 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.222407537Z</date>
+  <millis>1684615972222</millis>
+  <nanos>407537</nanos>
+  <sequence>432</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Package Frame_19 : 6 -&gt; 7</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.222769138Z</date>
+  <millis>1684615972222</millis>
+  <nanos>769138</nanos>
+  <sequence>435</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Node 9 : received package in 133 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.222573535Z</date>
+  <millis>1684615972222</millis>
+  <nanos>573535</nanos>
+  <sequence>434</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>25</thread>
+  <message>Node 3 : written package Frame_39</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.222931347Z</date>
+  <millis>1684615972222</millis>
+  <nanos>931347</nanos>
+  <sequence>436</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>27</thread>
+  <message>Node 3 : written package Frame_6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.223091905Z</date>
+  <millis>1684615972223</millis>
+  <nanos>91905</nanos>
+  <sequence>437</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Node 0 : received package in 133 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.223234917Z</date>
+  <millis>1684615972223</millis>
+  <nanos>234917</nanos>
+  <sequence>438</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>18</thread>
+  <message>Node 3 : written package Frame_79</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.223400716Z</date>
+  <millis>1684615972223</millis>
+  <nanos>400716</nanos>
+  <sequence>439</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>20</thread>
+  <message>Package Frame_16 : 2 -&gt; 4</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.222551988Z</date>
+  <millis>1684615972222</millis>
+  <nanos>551988</nanos>
+  <sequence>433</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>22</thread>
+  <message>Node 3 : written package Frame_36</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.229809910Z</date>
+  <millis>1684615972229</millis>
+  <nanos>809910</nanos>
+  <sequence>440</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Node 1 : received package in 140 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.229968336Z</date>
+  <millis>1684615972229</millis>
+  <nanos>968336</nanos>
+  <sequence>441</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>19</thread>
+  <message>Node 3 : written package Frame_70</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.230016365Z</date>
+  <millis>1684615972230</millis>
+  <nanos>16365</nanos>
+  <sequence>443</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Node 9 : received package in 140 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.230213196Z</date>
+  <millis>1684615972230</millis>
+  <nanos>213196</nanos>
+  <sequence>444</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>27</thread>
+  <message>Node 3 : written package Frame_33</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.229984978Z</date>
+  <millis>1684615972229</millis>
+  <nanos>984978</nanos>
+  <sequence>442</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_18 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.232198768Z</date>
+  <millis>1684615972232</millis>
+  <nanos>198768</nanos>
+  <sequence>445</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Node 7 : received package in 143 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.232528953Z</date>
+  <millis>1684615972232</millis>
+  <nanos>528953</nanos>
+  <sequence>446</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>25</thread>
+  <message>Node 3 : written package Frame_48</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.233584655Z</date>
+  <millis>1684615972233</millis>
+  <nanos>584655</nanos>
+  <sequence>447</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Node 6 : received package in 144 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.233815789Z</date>
+  <millis>1684615972233</millis>
+  <nanos>815789</nanos>
+  <sequence>448</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Package Frame_66 : 7 -&gt; 8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.233982937Z</date>
+  <millis>1684615972233</millis>
+  <nanos>982937</nanos>
+  <sequence>450</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_51 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.233932601Z</date>
+  <millis>1684615972233</millis>
+  <nanos>932601</nanos>
+  <sequence>449</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>24</thread>
+  <message>Node 3 : written package Frame_55</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.234872533Z</date>
+  <millis>1684615972234</millis>
+  <nanos>872533</nanos>
+  <sequence>451</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>26</thread>
+  <message>Package Frame_66 : 8 -&gt; 9</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.235197284Z</date>
+  <millis>1684615972235</millis>
+  <nanos>197284</nanos>
+  <sequence>452</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Node 9 : received package in 145 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.235216928Z</date>
+  <millis>1684615972235</millis>
+  <nanos>216928</nanos>
+  <sequence>455</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_45 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.235333173Z</date>
+  <millis>1684615972235</millis>
+  <nanos>333173</nanos>
+  <sequence>456</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>27</thread>
+  <message>Node 3 : written package Frame_69</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.235203121Z</date>
+  <millis>1684615972235</millis>
+  <nanos>203121</nanos>
+  <sequence>454</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Package Frame_51 : 0 -&gt; 1</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.235200069Z</date>
+  <millis>1684615972235</millis>
+  <nanos>200069</nanos>
+  <sequence>453</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Node 7 : received package in 146 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.235489405Z</date>
+  <millis>1684615972235</millis>
+  <nanos>489405</nanos>
+  <sequence>457</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Node 6 : received package in 146 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.235630012Z</date>
+  <millis>1684615972235</millis>
+  <nanos>630012</nanos>
+  <sequence>458</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>25</thread>
+  <message>Node 3 : written package Frame_29</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.235682756Z</date>
+  <millis>1684615972235</millis>
+  <nanos>682756</nanos>
+  <sequence>459</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>24</thread>
+  <message>Node 3 : written package Frame_18</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.236274757Z</date>
+  <millis>1684615972236</millis>
+  <nanos>274757</nanos>
+  <sequence>460</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>19</thread>
+  <message>Node 1 : received package in 147 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.236451262Z</date>
+  <millis>1684615972236</millis>
+  <nanos>451262</nanos>
+  <sequence>461</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>19</thread>
+  <message>Node 3 : written package Frame_51</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.236534098Z</date>
+  <millis>1684615972236</millis>
+  <nanos>534098</nanos>
+  <sequence>462</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_72 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.236834844Z</date>
+  <millis>1684615972236</millis>
+  <nanos>834844</nanos>
+  <sequence>463</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>25</thread>
+  <message>Node 7 : received package in 147 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.236966572Z</date>
+  <millis>1684615972236</millis>
+  <nanos>966572</nanos>
+  <sequence>464</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>25</thread>
+  <message>Node 3 : written package Frame_19</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.241526056Z</date>
+  <millis>1684615972241</millis>
+  <nanos>526056</nanos>
+  <sequence>465</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Node 4 : received package in 152 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.241837559Z</date>
+  <millis>1684615972241</millis>
+  <nanos>837559</nanos>
+  <sequence>466</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>22</thread>
+  <message>Node 3 : written package Frame_8</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.243067861Z</date>
+  <millis>1684615972243</millis>
+  <nanos>67861</nanos>
+  <sequence>467</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_26 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.244302342Z</date>
+  <millis>1684615972244</millis>
+  <nanos>302342</nanos>
+  <sequence>468</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Node 4 : received package in 155 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.244493946Z</date>
+  <millis>1684615972244</millis>
+  <nanos>493946</nanos>
+  <sequence>469</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>22</thread>
+  <message>Node 3 : written package Frame_35</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.245488542Z</date>
+  <millis>1684615972245</millis>
+  <nanos>488542</nanos>
+  <sequence>470</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Node 9 : received package in 156 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.245676150Z</date>
+  <millis>1684615972245</millis>
+  <nanos>676150</nanos>
+  <sequence>471</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>27</thread>
+  <message>Node 3 : written package Frame_32</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.245688892Z</date>
+  <millis>1684615972245</millis>
+  <nanos>688892</nanos>
+  <sequence>472</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Package Frame_44 : 4 -&gt; 5</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.246915548Z</date>
+  <millis>1684615972246</millis>
+  <nanos>915548</nanos>
+  <sequence>473</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Package Frame_31 : 9 -&gt; 0</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.247066952Z</date>
+  <millis>1684615972247</millis>
+  <nanos>66952</nanos>
+  <sequence>474</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_45 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.247073493Z</date>
+  <millis>1684615972247</millis>
+  <nanos>73493</nanos>
+  <sequence>475</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Node 4 : received package in 157 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.247276682Z</date>
+  <millis>1684615972247</millis>
+  <nanos>276682</nanos>
+  <sequence>476</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>22</thread>
+  <message>Node 3 : written package Frame_53</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.248132395Z</date>
+  <millis>1684615972248</millis>
+  <nanos>132395</nanos>
+  <sequence>477</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Node 9 : received package in 158 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.248301704Z</date>
+  <millis>1684615972248</millis>
+  <nanos>301704</nanos>
+  <sequence>478</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>27</thread>
+  <message>Node 3 : written package Frame_76</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.248460629Z</date>
+  <millis>1684615972248</millis>
+  <nanos>460629</nanos>
+  <sequence>479</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>22</thread>
+  <message>Node 4 : received package in 159 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.248596804Z</date>
+  <millis>1684615972248</millis>
+  <nanos>596804</nanos>
+  <sequence>483</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>22</thread>
+  <message>Node 3 : written package Frame_16</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.249527496Z</date>
+  <millis>1684615972249</millis>
+  <nanos>527496</nanos>
+  <sequence>484</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Node 9 : received package in 160 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.249680899Z</date>
+  <millis>1684615972249</millis>
+  <nanos>680899</nanos>
+  <sequence>485</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>27</thread>
+  <message>Node 3 : written package Frame_30</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.248473414Z</date>
+  <millis>1684615972248</millis>
+  <nanos>473414</nanos>
+  <sequence>480</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Package Frame_72 : 5 -&gt; 6</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.248514465Z</date>
+  <millis>1684615972248</millis>
+  <nanos>514465</nanos>
+  <sequence>482</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Node 6 : received package in 159 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.252526217Z</date>
+  <millis>1684615972252</millis>
+  <nanos>526217</nanos>
+  <sequence>487</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>24</thread>
+  <message>Node 3 : written package Frame_45</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.248494297Z</date>
+  <millis>1684615972248</millis>
+  <nanos>494297</nanos>
+  <sequence>481</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>18</thread>
+  <message>Node 0 : received package in 159 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.252307006Z</date>
+  <millis>1684615972252</millis>
+  <nanos>307006</nanos>
+  <sequence>486</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>27</thread>
+  <message>Node 9 : received package in 163 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.253357947Z</date>
+  <millis>1684615972253</millis>
+  <nanos>357947</nanos>
+  <sequence>488</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>27</thread>
+  <message>Node 3 : written package Frame_66</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.257521578Z</date>
+  <millis>1684615972257</millis>
+  <nanos>521578</nanos>
+  <sequence>489</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Node 5 : received package in 168 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.257788758Z</date>
+  <millis>1684615972257</millis>
+  <nanos>788758</nanos>
+  <sequence>490</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>23</thread>
+  <message>Node 3 : written package Frame_26</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.262088276Z</date>
+  <millis>1684615972262</millis>
+  <nanos>88276</nanos>
+  <sequence>491</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>23</thread>
+  <message>Node 5 : received package in 172 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.262356141Z</date>
+  <millis>1684615972262</millis>
+  <nanos>356141</nanos>
+  <sequence>492</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>23</thread>
+  <message>Node 3 : written package Frame_44</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.263087779Z</date>
+  <millis>1684615972263</millis>
+  <nanos>87779</nanos>
+  <sequence>493</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>18</thread>
+  <message>Node 3 : written package Frame_31</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.265415216Z</date>
+  <millis>1684615972265</millis>
+  <nanos>415216</nanos>
+  <sequence>494</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>processData</method>
+  <thread>24</thread>
+  <message>Node 6 : received package in 176 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:52:52.265802019Z</date>
+  <millis>1684615972265</millis>
+  <nanos>802019</nanos>
+  <sequence>495</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.Node</class>
+  <method>writeDate</method>
+  <thread>24</thread>
+  <message>Node 3 : written package Frame_72</message>
+</record>
+<record>
+  <date>2023-05-20T20:53:02.138538683Z</date>
+  <millis>1684615982138</millis>
+  <nanos>538683</nanos>
+  <sequence>496</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.RingProcessor</class>
+  <method>logAvgNetworkDelay</method>
+  <thread>1</thread>
+  <message>Avg network delay:         114.432 ms</message>
+</record>
+<record>
+  <date>2023-05-20T20:53:02.139799169Z</date>
+  <millis>1684615982139</millis>
+  <nanos>799169</nanos>
+  <sequence>497</sequence>
+  <logger>ringLogger</logger>
+  <level>INFO</level>
+  <class>nl.zvnv.task2.RingProcessor</class>
+  <method>logAvgBufferDelay</method>
+  <thread>1</thread>
+  <message>Avg buffer delay:         106.279 ms</message>
+</record>
+</log>
